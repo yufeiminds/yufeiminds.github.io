@@ -1,0 +1,26 @@
+{
+  "name": "thxminds.com",
+  "homepage": "https://github.com/yufeiminds/thxminds.com",
+  "authors": [
+    "Yufei Li <yufeiminds@gmail.com>"
+  ],
+  "description": "ThxMinds.Com Homepage",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "home"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.5.0",
+    "animate.css": "^3.5.1",
+    "octicons": "^3.5.0"
+  }
+}
