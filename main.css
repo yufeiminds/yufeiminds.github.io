@@ -181,8 +181,7 @@ h5,
 h6,
 body,
 p {
-  font-family: Lora, Georgia, "Xin Gothic", KaiTi, "Hiragino Sans GB", "WenQuanYi Micro Hei", sans-serif;
-  font-weight: 300;
+  font: 400 18px/1.62 "Georgia", "Xin Gothic", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei", sans-serif;
   line-height: 1.5;
 }
 h1 {
@@ -257,7 +256,6 @@ h2 {
 @media (min-width: 768px) {
   .intro,
   .news {
-    display: table;
     position: fixed;
     width: 50%;
   }
